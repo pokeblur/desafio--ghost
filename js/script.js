@@ -1,6 +1,4 @@
-
-
-// Datos de los pesajes
+    // Datos de los pesajes
 const weighings = [
     {
         date: '2025-09-30',
@@ -22,12 +20,12 @@ const weighings = [
     },
     {
         date: '2025-10-10',
-        weight: 100.8,
-        bmi: 33.3,
-        bodyFat: 36.7,
-        muscle: 30.4,
-        visceralFat: 15.0,
-        bodyAge: 64
+        weight: 99.8,
+        bmi: 33,
+        bodyFat: 36.6,
+        muscle: 30.5,
+        visceralFat: 14,
+        bodyAge: 63
     }
 ];
 
